@@ -1,0 +1,13 @@
+name: BlockMaster
+version: 1.0
+main: de.mxd17.blockmaster.BlockMaster
+api-version: 1.21
+author: mxd17
+description: Test plugin
+commands:
+  blockmaster:
+    description: Erfahre Informationen zum Plugin
+    usage: /blockmaster
+  blockballs:
+    description: Bekomme Schneebälle ins Inventar
+    usage: /blockballs

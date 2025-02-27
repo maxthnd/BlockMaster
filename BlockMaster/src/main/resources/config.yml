@@ -1,0 +1,6 @@
+prefix: "§8[§bBlockMaster§8]§7 "
+settings:
+  balls-name: "§c§lGriefer Bälle"
+  explosion-radius: 15
+  animation: "SPIRALE"
+
