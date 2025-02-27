@@ -18,4 +18,7 @@ Gibt Griefer Bälle, die für ein bisschen Pepp sorgen.
  
 ## Config
 Derzeit ist alles bis auf die Spiralen Animation änderbar in der config.yml
+
+## .JAR Download
+https://workupload.com/file/FJ5AqSrzUpm
  
